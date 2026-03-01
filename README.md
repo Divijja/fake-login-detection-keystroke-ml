@@ -19,11 +19,10 @@ This project uses Machine Learning to detect fake login attempts by analyzing ho
 Python · Scikit-learn · Pandas · NumPy · Jupyter  
 
 ## 📁 Project Structure
-data/ → datasets (or links)
-notebooks/ → experiments & training
-src/ → ML pipeline scripts
-results/ → metrics & plots
-
+ - data/ → datasets (or links)
+ - notebooks/ → experiments & training
+ - src/ → ML pipeline scripts
+ - results/ → metrics & plots
 
 ## 🚀 Future Improvements
 - Try deep learning (LSTM)  
